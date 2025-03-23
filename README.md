@@ -220,3 +220,4 @@ curl -X GET http://localhost:5000/api/products
 ## Conclusion
 The **Product Catalog API** provides a well-structured backend system for managing an e-commerce platform's product inventory. With scalable design and robust error handling, this API serves as a strong foundation for a real-world e-commerce backend.
 
+Swagger API Docs available at http://localhost:5000/api-docs
